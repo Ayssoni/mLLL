@@ -119,7 +119,7 @@ BEST_MODEL = os.path.join(
 
 FINAL_MODEL = os.path.join(
     MODEL_DIR,
-    "emotion_model.keras"
+    "best_emotion_model.keras"
 )
 
 TENSORBOARD_LOGS = LOG_DIR

@@ -30,7 +30,7 @@ print("Model Loaded Successfully!")
 # IMAGE PATH
 # =========================================================
 
-IMAGE_PATH = "/Users/aysoni/Documents/mLLL/test.jpg"
+IMAGE_PATH = "/Users/aysoni/Documents/mLLL/dataset/test/happy/PrivateTest_95094.jpg"
 
 # Change this path to your own image
 
