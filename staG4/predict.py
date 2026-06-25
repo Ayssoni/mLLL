@@ -9,7 +9,7 @@ model = load_model("emotion_stage4.h5")
 
 classes = ["angry", "happy", "sad"]
 
-image_path = "/Users/aysoni/Documents/mLLL/dataset/train/happy/Training_1206.jpg"
+image_path = "/Users/aysoni/Documents/mLLL/dataset/train/happy/Training_71811.jpg"
 
 print("Exists:", os.path.exists(image_path))
 
